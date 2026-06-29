@@ -1,0 +1,53 @@
+categories:
+  MX:
+    label: MX
+    report_name: "Leaflet W{week:02d} MX.pptx"
+    keywords:
+      - smartphone
+      - téléphone
+      - phone
+      - galaxy
+      - iphone
+      - tablette
+      - tablet
+      - watch
+      - montre
+      - earbuds
+      - écouteurs
+      - casque
+      - buds
+  VD:
+    label: VD TV
+    report_name: "Leaflet W{week:02d} VD TV.pptx"
+    keywords:
+      - TV
+      - téléviseur
+      - écran
+      - QLED
+      - OLED
+      - LED
+      - Crystal UHD
+      - Smart TV
+      - 4K
+      - Samsung TV
+      - LG TV
+      - Hisense
+      - TCL
+  DA:
+    label: DA
+    report_name: "Leaflet W{week:02d} DA.pptx"
+    keywords:
+      - machine à laver
+      - lave-linge
+      - refrigerator
+      - réfrigérateur
+      - frigo
+      - congélateur
+      - freezer
+      - climatiseur
+      - air conditioner
+      - four
+      - micro-ondes
+      - dishwasher
+      - lave-vaisselle
+      - sèche-linge
