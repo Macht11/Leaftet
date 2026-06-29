@@ -125,7 +125,7 @@ APP_PASSWORD = "your-secure-password"
 
 5. Deploy and open the app URL from your work browser.
 
-This repository includes `packages.txt` so Streamlit Cloud can install the free Tesseract OCR system packages needed by `pytesseract`. It intentionally avoids extra low-level libraries that can conflict with Streamlit Cloud's Debian image.
+
 
 ### Recommended option 2: Hugging Face Spaces with Docker
 
