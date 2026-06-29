@@ -1,0 +1,18 @@
+retailers:
+  - name: Carrefour
+    key: carrefour
+    url: https://carrefour.ma/catalogues/
+    scraper: carrefour
+  - name: Marjane
+    key: marjane
+    url: https://www.marjane.ma/contenu/nos-catalogues
+    scraper: marjane
+  - name: Aswak Assalam
+    key: aswak
+    url: https://aswakassalam.com/catalogue/
+    scraper: aswak
+  - name: Electroplanet
+    key: electroplanet
+    url: https://depenseless.com/magasin/electroplanet/
+    scraper: depenseless
+    source_label: DepenseLess
