@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: leaflet-monitoring-tool
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: APP_PASSWORD
+        sync: false
+      - key: STREAMLIT_SERVER_HEADLESS
+        value: "true"
+      - key: STREAMLIT_SERVER_ADDRESS
+        value: "0.0.0.0"
